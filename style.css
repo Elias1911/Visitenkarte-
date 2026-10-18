@@ -1,0 +1,38 @@
+body{
+    background-color: beige;
+}
+
+h1{
+    color: brown;
+    text-align: center;
+    text-decoration:underline;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    display: flex;
+    margin: 30px;
+    margin-bottom: 10px;
+}
+
+ul{
+    color: black;
+}
+
+.Listen{
+    margin-top: 10px;
+    display: flex;
+    gap: 70px;
+}
+
+.Hobby-Head{
+    color: navy;
+    font-weight: bold;
+}
+
+.Lernpfad{
+    margin-left: 30px;
+}
